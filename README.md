@@ -1,7 +1,5 @@
-<h2 align="center">Hi there 👋, I am Marco</h2>
-
+<h2 align="center">Hi there 👋, I am Marco</h2
 <hr style="width:60%; margin:auto;"/>
-
 <p align="center">
   🧠 Mathematician | 💻 Data-Driven Thinker | 🎯 Problem Solver | 🚀 Modeling Enthusiast</span>
 </p>
