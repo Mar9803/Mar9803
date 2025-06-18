@@ -1,7 +1,8 @@
 ## Hi there 👋, I am Marco  
 ---  
-<span style="font-size:14px">🧠 Mathematician | 💻 Data-Driven Thinker | 🎯 Problem Solver | 🚀 Modeling Enthusiast
-
+<p align="center">
+  <span style="font-size:14px">🧠 Mathematician | 💻 Data-Driven Thinker | 🎯 Problem Solver | 🚀 Modeling Enthusiast</span>
+</p>
 
 ## 🌱 Learning Now:  
 • OOP & Clean Code  
