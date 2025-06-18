@@ -3,12 +3,7 @@
 <span style="font-size:14px">🧠 Mathematician | 💻 Data-Driven Thinker | 🎯 Problem Solver | 🚀 Modeling Enthusiast
 
 
-**Mar9803/Mar9803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 Learning Now:  
+## 🌱 Learning Now:  
 • OOP & Clean Code  
 • Python for ML  
 • Neural Networks  
