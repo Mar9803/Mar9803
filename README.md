@@ -13,12 +13,12 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://github.com/MarcoDev/LeetHub" target="_blank">
-    <img src="https://img.shields.io/badge/LeetHub-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetHub" />
-  </a>
   <a href="https://www.linkedin.com/in/marcoschipani99/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" style="margin-right: 20px;" />
   </a>
+  <a href="https://leetcode.com/u/jLRvHjTPfO/" target="_blank">
+  <img src="PASTE_IMAGE_URL_HERE" alt="LeetCode" height="40" />
+</a>
 </p>
 
 ## 🧰 Languages and Tools
