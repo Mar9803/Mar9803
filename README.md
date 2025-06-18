@@ -1,12 +1,10 @@
-<h2 align="center">Hi there 👋, I am Marco</h2>
+<h2 align="center" style="margin-bottom: 0.3em;">Hi there 👋, I am Marco</h2>
 
-<hr style="width:60%; height:6px; background-color:#ccc; border:none; margin:auto;" />
-
-<p align="center" style="font-size:14px">
+<p align="center" style="font-size:14px; margin-top: 0.5em;">
   🧠 Mathematician | 💻 Data-Driven Thinker | 🎯 Problem Solver | 🚀 Modeling Enthusiast
 </p>
 
-## 🌱 Learning Now:  
+## 🌱 Learning Now:
 • OOP & Clean Code  
 • Python for ML  
 • Neural Networks  
@@ -14,18 +12,18 @@
 
 ## 🌐 Connect with me
 
-<p>
-  <a href="[https://github.com/MarcoDev/LeetHub" target="_blank](https://leetcode.com/u/jLRvHjTPfO/)">
+<p align="center">
+  <a href="https://github.com/MarcoDev/LeetHub" target="_blank">
     <img src="https://img.shields.io/badge/LeetHub-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetHub" />
   </a>
-  <a href="[https://www.linkedin.com/in/tuo-nome](https://www.linkedin.com/in/marcoschipani99/)" target="_blank">
+  <a href="https://www.linkedin.com/in/marcoschipani99/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ## 🧰 Languages and Tools
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
