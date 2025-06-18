@@ -1,4 +1,4 @@
-<h2 align="center" style="margin-bottom: 0.3em;">Hi there 👋, I am Marco</h2>
+<h1 align="center" style="margin-bottom: 0.3em;">Hi there 👋, I am Marco</h1>
 
 <p align="center" style="font-size:14px; margin-top: 0.5em;">
   🧠 Mathematician | 💻 Data-Driven Thinker | 🎯 Problem Solver | 🚀 Modeling Enthusiast
