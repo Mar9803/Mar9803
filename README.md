@@ -2,7 +2,7 @@
 ---  
 <span style="font-size:14px">🧠 Mathematician | 💻 Data-Driven Thinker | 🎯 Problem Solver | 🚀 Modeling Enthusiast
 
-<!--
+
 **Mar9803/Mar9803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -34,4 +34,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab" />
 </p>
 
--->
+
