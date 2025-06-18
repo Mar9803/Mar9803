@@ -1,5 +1,7 @@
 <h2 align="center">Hi there 👋, I am Marco</h2
-<hr style="width:90%; height:3px; background-color:#ccc; border:none; margin:auto;" />
+                                           
+<hr style="width:%; height:6px; background-color:#ccc; border:none; margin:auto;" />
+
 <p align="center">
   🧠 Mathematician | 💻 Data-Driven Thinker | 🎯 Problem Solver | 🚀 Modeling Enthusiast</span>
 </p>
