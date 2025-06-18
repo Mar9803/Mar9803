@@ -3,7 +3,7 @@
 <hr style="width:60%; margin:auto;"/>
 
 <p align="center">
-  <span style="font-size:14px">🧠 Mathematician | 💻 Data-Driven Thinker | 🎯 Problem Solver | 🚀 Modeling Enthusiast</span>
+  🧠 Mathematician | 💻 Data-Driven Thinker | 🎯 Problem Solver | 🚀 Modeling Enthusiast</span>
 </p>
 
 ## 🌱 Learning Now:  
