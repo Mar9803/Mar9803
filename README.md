@@ -14,11 +14,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcoschipani99/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" style="margin-right: 20px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="60" style="margin-right: 20px;" />
   </a>
   <a href="https://leetcode.com/u/jLRvHjTPfO/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" style="filter: brightness(0) saturate(100%) invert(100%) sepia(100%) hue-rotate(10deg) saturate(500%) brightness(110%);" />
-  </a>
+  <img src="https://i.imgur.com/uMYdh3M.png"LeetCode" height="60" />
+</a>
 
 
 </p>
